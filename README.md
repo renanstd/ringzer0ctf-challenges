@@ -1,5 +1,5 @@
 # ringzer0ctf-challenges
-Repositório para guardar os scripts feitos para resolver os desafios CTF da categoria **coding** da plataforma ringzer0ctf.
+Repositório para guardar os scripts feitos para resolver os desafios CTF da categoria *coding* da plataforma **ringzer0ctf**.
 
 ## Resolvidos até o momento:
 
