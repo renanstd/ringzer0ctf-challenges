@@ -2,7 +2,7 @@
 
 > https://ringzer0ctf.com/challenges/14
 
-O desafio consiste em, em menos de 2 segundos, pegar uma string de código binário, converter, hashear ela usando um algoritmo sha512, e enviar o resultado de volta.
+O desafio consiste em, em menos de 2 segundos, pegar uma string de código binário, converter de binário para ASCII, hashear ela usando um algoritmo sha512, e enviar o resultado de volta.
 
 ![print](https://github.com/renanstd/ringzer0ctf-challenges/blob/main/hash_me_reloaded/images/challenge.png)
 
