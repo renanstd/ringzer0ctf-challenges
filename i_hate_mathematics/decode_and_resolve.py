@@ -28,7 +28,7 @@ value_c = equation.split(" - ")[1].split(" = ")[0]
 # Calcular o resultado, convertendo os valores todos para decimal
 result = int(value_a) + int(value_b, 16) - int(value_c, 2)
 
-# # Enviar de volta e printar o html resultante
+# Enviar de volta e printar o html resultante
 response_url = url + "/" + str(result)
 response = requests.get(response_url, cookies=cookies)
 print(response.text)
