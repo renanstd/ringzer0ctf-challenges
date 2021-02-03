@@ -5,4 +5,4 @@ Repositório para guardar os scripts feitos para resolver os desafios CTF da cat
 
 - [hash me please](https://github.com/renanstd/ringzer0ctf-challenges/tree/main/hash_me_please)
 - [hash me reloaded](https://github.com/renanstd/ringzer0ctf-challenges/tree/main/hash_me_reloaded)
-- [i hate mathematics]()
+- [i hate mathematics](https://github.com/renanstd/ringzer0ctf-challenges/tree/main/i_hate_mathematics)
